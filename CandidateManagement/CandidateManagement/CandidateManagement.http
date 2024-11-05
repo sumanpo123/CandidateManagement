@@ -1,0 +1,6 @@
+@CandidateManagement_HostAddress = http://localhost:5272
+
+GET {{CandidateManagement_HostAddress}}/candidates/
+Accept: application/json
+
+###
